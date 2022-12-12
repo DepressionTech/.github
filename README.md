@@ -1,2 +1,2 @@
 # .github
-Description for us.
+Description of us.
