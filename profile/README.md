@@ -1,4 +1,4 @@
-## Depersonalization | 人格解体
+## Depersonalization
 
 > Science & Medical Project.
 
